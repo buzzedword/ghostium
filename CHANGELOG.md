@@ -1,3 +1,39 @@
+<a name="v2.1.1"></a>
+### v2.1.1 (2014-03-08)
+
+<a name="v2.1.0"></a>
+## v2.1.0 (2014-03-07)
+
+
+#### Bug Fixes
+
+* **template:** Start using {{asset}} Ghost helper. Close #61 ([d26b7063](http://github.com/oswaldoacauan/ghostium/commit/d26b706391f8866e38b8a47efb39cd9767c20942))
+
+<a name="v2.0.2"></a>
+### v2.0.2 (2014-02-03)
+
+
+#### Bug Fixes
+
+* **scripts:** Add correct focus on page load. Close #58 ([58ae72b3](http://github.com/oswaldoacauan/ghostium/commit/58ae72b3b29ff1b32f38fd6728b7c8d65044ed8f))
+
+<a name="v2.0.1"></a>
+### v2.0.1 (2014-01-27)
+
+
+#### Bug Fixes
+
+* **templates:** Fix express-hbs 404 issue introduced with Ghost 0.4. See #47 ([ce92314c](http://github.com/oswaldoacauan/ghostium/commit/ce92314c0a5576f3c84134db27ba009cc066580a))
+
+<a name="v2.0.0"></a>
+## v2.0.0 (2014-01-27)
+
+
+#### Bug Fixes
+
+* Add bundler install as npm install postinstall cmd ([e7e3c2d9](http://github.com/oswaldoacauan/ghostium/commit/e7e3c2d9875b7f98a7505c2d0e2fbc13dd9c945e))
+* **bower:** Fix Prism issue dependencie. Rel #27, #33 ([f6aba3ef](http://github.com/oswaldoacauan/ghostium/commit/f6aba3efa4de5cf1a20213edfe997a5f8b45d398))
+
 <a name="v1.2.1"></a>
 ### v1.2.1 (2013-12-08)
 
